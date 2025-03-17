@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
     TextView tview;
     FirebaseUser user;
     ImageView tenth_img;
-    ImageView twelfth_img;
+    ImageView twelfth_img;//12th
     ImageView fy_img;
 
 
