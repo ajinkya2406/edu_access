@@ -15,18 +15,19 @@ import com.example.educationalbook.FY.fy_main;
 import com.example.educationalbook.R;
 
 public class ep_bca extends AppCompatActivity {
+    ImageView fyback;
+    ImageView sbcp;
+    ImageView sbfoc;
+    ImageView sbam;
+    ImageView sbbc;
+    ImageView sbco;
+    ImageView sbacp;
+    ImageView sbos;
+    ImageView sbdbms;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
-        ImageView fyback;
-        ImageView sbcp;
-        ImageView sbfoc;
-        ImageView sbam;
-        ImageView sbbc;
-        ImageView sbco;
-        ImageView sbacp;
-        ImageView sbos;
-        ImageView sbdbms;
+
         super.onCreate(savedInstanceState);
         EdgeToEdge.enable(this);
         setContentView(R.layout.activity_ep_bca);

@@ -23,7 +23,7 @@ import com.google.firebase.auth.FirebaseUser;
 
 public class MainActivity extends AppCompatActivity {
     FirebaseAuth auth;
-    Button btn;
+    ImageView btn;
     TextView tview;
     FirebaseUser user;
     ImageView tenth_img;

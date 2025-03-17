@@ -173,12 +173,7 @@
         <activity
             android:name=".FY.fy_main"
             android:exported="false" />
-        <activity
-            android:name=".FY.sb_fy.sb_fy_main"
-            android:exported="false" />
-        <activity
-            android:name=".FY.sb_fy.sn_fy.ep_fy.sb_fy_main"
-            android:exported="false" />
+
         <activity
             android:name=".tenth.short_notes_10.Science_10_sn"
             android:exported="false" />
@@ -226,9 +221,6 @@
             android:exported="false" />
         <activity
             android:name=".tenth.study_books_10.study_books_10"
-            android:exported="false" />
-        <activity
-            android:name=".FY_Books"
             android:exported="false" />
         <activity
             android:name=".Twelfth_Books"
